@@ -1,0 +1,15 @@
+Compiler
+Er wandelt den Binärcode/Quellcode in Maschinencode bzw. Bytecode(zuerst) um
+
+ID
+Ist die Erkennungsnummer. Sie darf nur einmal existieren. Sie ist sozusagen der Name, aber auch wie der Name schon sagt, die Identifikation.
+
+Method
+Sie sagt, was im Bauplan beschrieben ist, bzw. was das Objekt machen soll (Also was es tun soll)
+
+Klasse
+Die Klasse ist der Bauplan für ein Objekt. In ihr ist alles über das Objekt beschrieben, also wie es aus sieht, welche Eigenschaften es hat, was es machen soll,… .
+
+Objekt
+Das Erzeugnis der Klasse. Alles was in der Klasse beschrieben ist, zeichnet das Objekt aus.
+
